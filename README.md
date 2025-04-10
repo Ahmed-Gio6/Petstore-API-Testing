@@ -11,7 +11,7 @@ Welcome to our *API testing project* for the [Swagger Petstore API](https://pets
 
 ---
 
-## 👥 Team Members
+## 🙋🏻‍♂ Team Members
 
 - *Ahmed Saad* – Software Tester  
 - *Lojain Omar* – Software Tester   
