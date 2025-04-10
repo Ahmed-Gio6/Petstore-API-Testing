@@ -144,24 +144,4 @@ Bug tracking and documentation
 
 
 
----
 
-📝 License
-
-This project is intended for educational and demonstration purposes only.
-
-
----
-
-🙌 Thank You!
-
-We appreciate your interest! Feel free to:
-
-Explore the repo
-
-Fork it
-
-Or star it if you found it useful
-
-
-لو حابب أضيف رابط GitHub حقيقي بدل your-username أو تضيف قسم "Future Work" أو "Challenges Faced" قولي.
