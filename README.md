@@ -99,48 +99,12 @@ All reports are available in the Reports/ directory:
 ## 🖼 Attachments
 
 Stored in Attachments/:
-- Screenshots of failed test executions  
+- Screenshots & Video of failed test executions  
 - Visual evidence for reported bugs  
 
 ---
 
-## 🚀 How to Run the Project
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/petstore-api-testing.git
-
-2. Open Postman and import the following:
-
-Petstore.postman_collection.json
-
-Petstore.environment.json
-
-
-
-3. Run tests:
-
-Manually via Postman
-
-Or using the Collection Runner for batch execution
-
-
-
-
-
----
-
-👨‍💻 About Us
-
-We are two software engineering students passionate about Quality Assurance. This project was part of our hands-on learning to apply:
-
-API exploration and analysis
-
-Test design and execution
-
-Postman scripting and validation
-
-Bug tracking and documentation
 
 
 
